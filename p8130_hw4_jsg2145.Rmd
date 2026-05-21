@@ -2,7 +2,7 @@
 title: "p8130_hw4_jsg2145"
 author: "Jared Garfinkel"
 date: "11/16/2019"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
