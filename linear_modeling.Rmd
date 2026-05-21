@@ -1,8 +1,8 @@
 ---
-title: "linear modeling"
+title: "linear_modeling"
 author: "Jared Garfinkel"
 date: "11/16/2019"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
