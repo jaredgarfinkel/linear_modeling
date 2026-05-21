@@ -1,5 +1,5 @@
 ---
-title: "p8130_hw4_jsg2145"
+title: "linear modeling"
 author: "Jared Garfinkel"
 date: "11/16/2019"
 output: pdf_document
